@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aysimaalmas
-- 👀 I’m interested in IT and software
-- 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Aysima Almas. I live in İstanbul in Turkey.
+- 👀 I’m interested in IT and software.
+- 🌱 I’m currently learning python and machine learning.
+- 💞️ I’m looking to collaborate on  ...
 - 📫 you can reach me "rumeysa.aysimaa@gmail.com" my gmail account
 
 <!---

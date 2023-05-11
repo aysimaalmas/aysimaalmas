@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aysima Almas. I live in İstanbul in Turkey.
-- 👀 I’m interested in IT and software.
+- 👀 I’m interested in software.
 - 🌱 I’m currently learning python and machine learning.
-- 💞️ I’m looking to collaborate on  ...
+- 💞️ I'm 2nd year industrial engineering student.
 - 📫 you can reach me "rumeysa.aysimaa@gmail.com" my gmail account
 
 <!---
